@@ -1,1 +1,3 @@
-Home page: https://resol.dev (hosted on this GitHub repository)
+Home: [ReSol.Dev](https://resol.dev)
+
+Twitter: [@ReSolDev](https://twitter.com/ReSolDev)
